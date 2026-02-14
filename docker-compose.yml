@@ -1,0 +1,6 @@
+name: <your project name>
+services:
+  vue-frontend:
+    ports:
+      - 8080:80
+    image: vue-frontend
