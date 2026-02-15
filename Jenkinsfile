@@ -1,4 +1,4 @@
-// hola script
+// hola script //
 
 pipeline {
     agent any
