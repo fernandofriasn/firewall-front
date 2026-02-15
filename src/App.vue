@@ -12,7 +12,9 @@
     </div>
   </header> -->
 
-  <div class="ci-banner">🚀 CI/CD TEST — deployed automatically from Jenkins!!!!!</div>
+  <div class="ci-banner">
+    🚀 CI/CD TEST — deployed automatically from Jenkins! Siempre jevi en vacaneria
+  </div>
 
   <!-- <RouterView /> -->
 </template>
