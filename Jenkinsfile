@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = "fernandofriasn/firewall-frontend"
+        IMAGE_NAME = "firewall-frontend"
         CONTAINER_NAME = "firewall-frontend"
     }
 
