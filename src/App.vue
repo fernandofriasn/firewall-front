@@ -12,8 +12,14 @@
     </div>
   </header> -->
 
+<<<<<<< HEAD
   <div class="ci-banner">🚀 CI/CD TEST — deployed automatically from Jenkins!!!!!</div>
   <div class="ci-banner">🚀 DETROIT BOYYY!!!!S</div>
+=======
+  <div class="ci-banner">
+    🚀 CI/CD TEST — deployed automatically from Jenkins! Siempre jevi en vacaneria
+  </div>
+>>>>>>> main
 
   <div class="ci-banner">🚀 CI/CD TEST — deployed automatically from Jenkins!!!!!</div>
   <div class="ci-banner">🚀 DETROIT BOYYY!!!!S</div>

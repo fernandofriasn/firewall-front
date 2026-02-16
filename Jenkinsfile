@@ -1,3 +1,5 @@
+// hola script //
+
 pipeline {
     agent any
 
